@@ -198,6 +198,8 @@
               }
             }
 
+            // MSF:  This isn't useful and misaligns
+            /*
             if ($(this).hasClass('is-master-category')) {
               switch (ynabToolKit.options.budgetProgressBars) {
                 case 'pacing':
@@ -213,6 +215,7 @@
                   break;
               }
             }
+            */
           });
         },
 
